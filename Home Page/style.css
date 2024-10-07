@@ -15,10 +15,9 @@
 
 .home-page .overlap {
   position: absolute;
-  width: 1628px;
   height: 3241px;
   top: -333px;
-  left: -261px;
+  left: -18%;
 }
 
 .home-page .macbook-air {
@@ -881,7 +880,7 @@
   position: absolute;
   width: 132px;
   height: 139px;
-  top: 721px;
+  top: 68%;
   left: 100%;
 }
 
@@ -889,7 +888,7 @@
   position: absolute;
   width: 417px;
   height: 450px;
-  top: 496px;
+  top: 44%;
   left: 88%;
 }
 
@@ -897,7 +896,7 @@
   position: absolute;
   width: 261px;
   height: 274px;
-  top: 363px;
+  top: 32%;
   left: 93.5%;
 }
 
