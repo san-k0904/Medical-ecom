@@ -8,16 +8,16 @@
 
 .home-page .div {
   overflow-x: hidden;
-  width: 100%;
-  height: 832px;
+  width: 100vw;
+  height: 100vh;
   position: relative;
 }
 
 .home-page .overlap {
   position: absolute;
-  height: 3241px;
-  top: -333px;
-  left: -18%;
+  height: 100%;
+  width: 100%;
+  top: -20.8rem;
 }
 
 .home-page .macbook-air {
@@ -25,14 +25,14 @@
   width: 100%;
   height: 2905px;
   top: 336px;
-  left: 261px;
+  left: 0%;
   background-color: #ffffff;
   overflow: hidden;
 }
 
 .home-page .footer {
   position: relative;
-  width: 100%;
+  width: 102%;
   height: 750px;
   top: 2155px;
   background-color: transparent;
@@ -396,14 +396,14 @@
 .home-page .trending-products {
   position: absolute;
   width: 100%;
-  height: 813px;
-  top: 1429px;
-  left: 261px;
+  height: 50.81rem;
+  top: 89.3rem;
+  left: 0%;
 }
 
 .home-page .trending-products-2 {
   position: relative;
-  height: 813px;
+  height: 50.81rem;
 }
 
 .home-page .card-text-div {
@@ -554,17 +554,17 @@
 }
 .home-page .card {
   position: absolute;
-  width: 378px;
+  width: 26%;
   height: 504px;
   top: 26%;
-  left: 3%;
+  left: 5%;
   background-color: #f1f4f9;
   border-radius: 48px;
 }
 
 .home-page .card-2 {
   top: 26%;
-  left: 33%;
+  left: 37%;
   position: absolute;
   width: 378px;
   height: 504px;
@@ -574,7 +574,7 @@
 
 .home-page .card-3 {
   top: 26%;
-  left: 63%;
+  left: 67%;
   position: absolute;
   width: 378px;
   height: 504px;
@@ -611,7 +611,7 @@
   width: 239px;
   height: 35px;
   top: 16%;
-  left: 74%;
+  left: 80%;
 }
 
 .home-page .text-wrapper-18 {
@@ -641,7 +641,7 @@
   width: 100%;
   height: 309px;
   top: 2182px;
-  left: 261px;
+  left: 0%;
   background-color: #ffffff;
 }
 
@@ -658,7 +658,7 @@
   width: 75px;
   height: 50px;
   top: 44%;
-  left: 24%;
+  left: 29%;
 }
 
 .home-page .customer-support {
@@ -666,7 +666,7 @@
   width: 53px;
   height: 60px;
   top: 41%;
-  left: 48%;
+  left: 53%;
 }
 
 .home-page .security {
@@ -674,7 +674,7 @@
   width: 48px;
   height: 54px;
   top: 41%;
-  left: 69%;
+  left: 74%;
 }
 
 .home-page .overlap-4 {
@@ -717,7 +717,7 @@
   position: absolute;
   height: 35px;
   top: 124px;
-  left: 30%;
+  left: 35%;
   font-family: "Inter", Helvetica;
   font-weight: 600;
   color: #000000;
@@ -731,7 +731,7 @@
   position: absolute;
   height: 35px;
   top: 124px;
-  left: 53%;
+  left: 58%;
   font-family: "Inter", Helvetica;
   font-weight: 600;
   color: #000000;
@@ -745,7 +745,7 @@
   position: absolute;
   height: 35px;
   top: 124px;
-  left: 74%;
+  left: 79%;
   font-family: "Inter", Helvetica;
   font-weight: 600;
   color: #000000;
@@ -759,7 +759,7 @@
   position: absolute;
   height: 35px;
   top: 159px;
-  left: 30%;
+  left: 35%;
   font-family: "Inter", Helvetica;
   font-weight: 500;
   color: #7d879d;
@@ -773,7 +773,7 @@
   position: absolute;
   height: 35px;
   top: 159px;
-  left: 53%;
+  left: 58%;
   font-family: "Inter", Helvetica;
   font-weight: 500;
   color: #7d879d;
@@ -787,7 +787,7 @@
   position: absolute;
   height: 35px;
   top: 159px;
-  left: 74%;
+  left: 79%;
   font-family: "Inter", Helvetica;
   font-weight: 500;
   color: #7d879d;
@@ -799,121 +799,120 @@
 
 .home-page .BG-gradience {
   position: relative;
-  width: 1628px;
-  height: 1059px;
+  width: 100%;
+  height: 66.18rem;
   top: 0;
   left: 0;
 }
 
 .home-page .overlap-5 {
-  position: relative;
-  height: 1059px;
+  position: absolute;
+  height: 66.18rem;
+  width: 100%;
 }
 
 .home-page .background {
   position: absolute;
   width: 100%;
-  height: 526px;
-  top: 334px;
-  left: 261px;
+  height: 32.8rem;
+  top: 20.8rem;
   background-color: #03c5d4;
 }
 
 .home-page .rectangle {
   position: absolute;
-  width: 977px;
-  height: 1007px;
+  width: 61rem;
+  height: 63rem;
   top: 0;
-  left: 0;
+  left: -18%;
   background-blend-mode: darken;
 }
 
 .home-page .rect {
   position: absolute;
-  width: 187px;
-  height: 256px;
-  top: 514px;
-  left: 261px;
+  width: 12rem;
+  height: 16rem;
+  top: 32rem;
 }
 
 .home-page .img {
   position: absolute;
-  width: 263px;
-  height: 302px;
-  top: 334px;
-  left: 261px;
+  width: 16.43rem;
+  height: 18.87rem;
+  top: 20.875rem;
 }
 
 .home-page .rectangle-2 {
   position: absolute;
   width: 622px;
   height: 726px;
-  top: 232px;
-  left: 238px;
+  top: 14.5rem;
+  left: -2%;
 }
 
 .home-page .rectangle-3 {
   position: absolute;
   width: 81.3125rem;
   height: 102.0625rem;
-  top: -1.25rem;
-  left: 15%;
+  top: -2%;
+  left: 1%;
 }
 
 .home-page .rect-2 {
   position: absolute;
-  width: 123px;
-  height: 69px;
-  top: 336px;
-  left: 1015px;
+  width: 7.68rem;
+  height: 4.3rem;
+  top: 31%;
+  left: 51%;
 }
 
 .home-page .rectangle-4 {
   position: absolute;
-  width: 543px;
-  height: 526px;
-  top: 334px;
-  left: 73%;
+  width: 33.9rem;
+  height: 32.87rem;
+  top: 31%;
+  left: 67.5%;
 }
 
 .home-page .rectangle-5 {
   position: absolute;
-  width: 132px;
-  height: 139px;
+  width: 8.25rem;
+  height: 8.68rem;
   top: 68%;
-  left: 100%;
+  left: 91%;
+  opacity: 60%;
 }
 
 .home-page .rectangle-6 {
   position: absolute;
-  width: 417px;
-  height: 450px;
-  top: 44%;
-  left: 88%;
+  width: 26rem;
+  height: 28.125rem;
+  top: 45%;
+  left: 78%;
 }
 
 .home-page .rectangle-7 {
   position: absolute;
-  width: 261px;
-  height: 274px;
+  width: 16.3rem;
+  height: 17.125rem;
   top: 32%;
-  left: 93.5%;
+  left: 86%;
 }
 
 .home-page .rect-3 {
   position: absolute;
-  width: 125px;
-  height: 108px;
-  top: 334px;
-  left: 90%;
+  width: 7.8rem;
+  height: 6.75rem;
+  top: 30%;
+  left: 84%;
 }
 
 .home-page .slider {
   position: absolute;
   width: 100%;
-  height: 568px;
-  top: 861px;
-  left: 261px;
+  height: 35.5rem;
+  top: 134%;
+  left: 0;
   background-color: #ffffff;
   overflow: hidden;
 }
@@ -924,11 +923,11 @@
   height: 568px;
 }
 
-.home-page .carousel {
-  width: 1281px;
+.home-page .carousel-sec {
+  width: 100%;
   left: 100%;
   position: absolute;
-  height: 568px;
+  height: 35.5rem;
   top: 0;
 }
 
@@ -1300,12 +1299,12 @@
   white-space: nowrap;
 }
 
-.home-page .carousel-2 {
+.home-page .carousel-main {
   width: 100%;
   left: 0;
   background-color: #ffffff;
   position: absolute;
-  height: 568px;
+  height: 35.5rem;
   top: 0;
 }
 
@@ -1488,15 +1487,6 @@
   line-height: 0.1px;
 }
 
-.home-page .carousel-3 {
-  position: absolute;
-  width: 100%;
-  height: 568px;
-  top: 0;
-  left: 2561px;
-  background-color: #ffffff;
-}
-
 .home-page .div-wrapper {
   all: unset;
   box-sizing: border-box;
@@ -1531,24 +1521,27 @@
 
 .home-page .med-animate {
   position: absolute;
-  width: 469px;
-  height: 513px;
-  top: 334px;
-  left: 1032px;
+  width: 29rem;
+  height: 32rem;
+  top: 53%;
+  left: 60%;
 }
 
 .home-page .overlap-13 {
   position: relative;
-  height: 513px;
-  left:22%;
+  height: 32rem;
+  left:0%;
 }
 
 .home-page .ellipse-7 {
   position: absolute;
-  width: 303px;
-  height: 296px;
-  top: 91px;
-  left: 105px;
+  width: 19rem;
+  height: 18.5rem;
+  top: 21%;
+  left: 28%;
+  border-radius: 24.5rem;
+  background: rgba(217, 217, 217, 0.15);
+  backdrop-filter: blur(8.75px);
 }
 
 .home-page .med-bottle {
@@ -1556,7 +1549,7 @@
   width: 350px;
   height: 503px;
   top: 0;
-  left: 58px;
+  left: 12%;
   background-image: url(https://c.animaapp.com/54PlmdXX/img/bottle.png);
   background-size: 100% 100%;
 }
@@ -1576,6 +1569,10 @@
   height: 178px;
   top: 335px;
   left: 286px;
+  fill: rgba(217, 217, 217, 0.15);
+  stroke-width: 1.5px;
+  backdrop-filter: blur(8.75px);
+  border-radius: 50%;
 }
 
 .home-page .ellipse-9 {
@@ -1584,14 +1581,18 @@
   height: 171px;
   top: 131px;
   left: 0;
+  fill: rgba(217, 217, 217, 0.15);
+  stroke-width: 1.5px;
+  backdrop-filter: blur(8.75px);
+  border-radius: 50%;
 }
 
 .home-page .text-area-2 {
   position: absolute;
-  width: 575px;
-  height: 331px;
-  top: 506px;
-  left: 354px;
+  width: 36rem;
+  height: 20.68rem;
+  top: 78%;
+  left: 12%;
 }
 
 .home-page .shop-now-button {
@@ -1686,9 +1687,9 @@
 .home-page .navbar {
   position: absolute;
   width: 85rem;
-  height: 55px;
-  top: 11%;
-  left: 20%;
+  height: 3.44rem;
+  top: 56%;
+  left: 4%;
 }
 
 .home-page .cart {
@@ -1772,7 +1773,8 @@
   width: 219px;
   height: 18px;
   top: 804px;
-  left: 80%;
+  left: 75%;
+  filter: blur(8.6px);
 }
 
 .home-page .chatbot {
